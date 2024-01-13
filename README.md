@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Manh Duy</h1>
 <h3 align="center">A ambitious developer</h3>
-<img align="center" alt="Coding" width="400" src="https://64.media.tumblr.com/61eef18fa1e69ad15e97ea1c00236243/93e5a36d93cb40c8-61/s540x810/89ef20fea77618a448f4b1cf5bb50f57c2ff4e00.gif">
+<p align="center">
+<img align="center" alt="Coding" width="400" src="https://i.imgur.com/xJjgjHN.gif">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duynvm23451&label=Profile%20views&color=0e75b6&style=flat" alt="duynvm23451" /> </p>
 
